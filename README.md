@@ -13,7 +13,7 @@ You can also install and run this app locally in the [ShinyApps](https://github.
 1. Download and install ShinyApps from the [latest release](https://github.com/fentouxungui/ShinyApps/releases/latest).
 2. Install `shiny-genome-stats`:
    - **Recommended:** open **Manage Apps → All**, search for `shiny-genome-stats`, and click **Install**.
-   - **Alternative:** download the Windows x64 or macOS arm64 (Apple Silicon) ZIP from the [ShinyApps catalog](https://fentouxungui.github.io/ShinyApps/), then choose **Apps → Install from Bundle**.
+   - **Alternative:** download the Windows x64 or macOS arm64 (Apple Silicon) ZIP from the [ShinyApps catalog](https://fentouxungui.github.io/ShinyApps/) or from the [release page](https://github.com/MPUSP/shiny-genome-stats/releases), then choose **Apps → Install from Bundle**.
 
 ### Features
 
