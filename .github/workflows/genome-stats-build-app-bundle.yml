@@ -41,8 +41,7 @@ on:
         type: string
 
 permissions:
-  contents: write
-
+  contents: read
 env:
   APP_ID: "genome-stats"
   APP_NAME: "shiny-genome-stats"
