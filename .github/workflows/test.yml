@@ -23,7 +23,7 @@ jobs:
 
       - name: Syntax check
         run: |
-          pixi run -e shiny Rscript --vanilla -e "parse(file='global.R'); parse(file='ui.R'); parse(file='server.R')"
+          pixi run check
 
       - name: Fetch test genomes
         run: |
