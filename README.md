@@ -6,6 +6,15 @@ R Shiny app to show basic statistics and features of microbial genomes.
 
 <img src="example.png" width="100%" style="display: block; margin: auto;" />
 
+### Desktop version
+
+You can also install and run this app locally in the [ShinyApps](https://github.com/fentouxungui/ShinyApps) desktop app store — no R installation or manual environment setup required.
+
+1. Download and install ShinyApps from the [latest release](https://github.com/fentouxungui/ShinyApps/releases/latest).
+2. Install `shiny-genome-stats`:
+   - **Recommended:** open **Manage Apps → All**, search for `shiny-genome-stats`, and click **Install**.
+   - **Alternative:** download the Windows x64 or macOS arm64 (Apple Silicon) ZIP from the [ShinyApps catalog](https://fentouxungui.github.io/ShinyApps/) or from the [release page](https://github.com/MPUSP/shiny-genome-stats/releases), then choose **Apps → Install from Bundle**.
+
 ### Features
 
 - shows a **genome summary** in terms of number of chromosomes or contigs, length, GC content and skew
