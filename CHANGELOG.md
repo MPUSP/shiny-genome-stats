@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.1](https://github.com/MPUSP/shiny-genome-stats/compare/v1.1.0...v1.1.1) (2026-11-04)
+
+
+### Bug Fixes
+
+* task to check code ([16b7dba](https://github.com/MPUSP/shiny-genome-stats/commit/16b7dbac0269cd121a87d12fb2c7930957051e3f))
+* task to check code ([789009a](https://github.com/MPUSP/shiny-genome-stats/commit/789009a0acad3945483b96ba898e1a1341aeba6e))
+
 ## [1.1.0](https://github.com/m-jahn/shiny-genome-stats/compare/v1.0.0...v1.1.0) (2026-10-01)
 
 
