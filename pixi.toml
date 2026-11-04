@@ -6,6 +6,7 @@ platforms = ["linux-64"]
 version = "0.1.0"
 
 [tasks]
+check = { cmd = "Rscript --vanilla -e \"parse(file='global.R'); parse(file='ui.R'); parse(file='server.R')\"", default-environment = "shiny" }
 fetch = { cmd = "Rscript --vanilla scripts/prefetch_genomes.R --limit 10", default-environment = "ncbi" }
 stats = { cmd = "Rscript --vanilla scripts/gene_wise_stats.R --output_dir data --limit 10", default-environment = "ncbi" }
 test = { cmd = "R -e \"shiny::runApp('.', port = 5000)\"", default-environment = "shiny" }
